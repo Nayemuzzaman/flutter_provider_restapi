@@ -1,16 +1,9 @@
 # flutter_provider_restapi
 
-A new Flutter project.
+A new Flutter rest api using provider project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="500" height="500" alt="Screen Shot 2022-07-05 at 12 05 43 PM" src="https://user-images.githubusercontent.com/12158468/177260570-d53c2c05-b60c-4848-99ef-ff563f4e9535.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
