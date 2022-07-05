@@ -1,4 +1,4 @@
-# flutter_provider_restapi
+# Flutter Rest API with Provider state management 
 
 A new Flutter rest api using provider project.
 
